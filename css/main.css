@@ -132,9 +132,14 @@ figure {
 footer {
     background: #151515;
     margin-top: 2rem;
-    margin-bottom: -2rem;
-    padding: 20px 40px 20px 40px;
+    padding: 20px 40px;
     color: #ffffff;
     text-align: center;
     text-transform: uppercase;
+}
+
+.page-index p {
+    font-size: 1.3rem;
+    max-width: 800px;
+    line-height: 1.5;
 }
